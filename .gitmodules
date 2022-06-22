@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rRofex"]
+	path = rRofex
+	url = https://github.com/matbarofex/rrofex
+	shallow = true
+	registered = true
